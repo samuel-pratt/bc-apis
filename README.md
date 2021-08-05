@@ -2,7 +2,9 @@
 
 A list of free APIs for British Columbia.
 
-Inspired by [Public APIs](https://github.com/public-apis/public-apis)
+Inspired by [Public APIs](https://github.com/public-apis/public-apis). 
+
+Open a pull request to add an API to this list.
 
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
